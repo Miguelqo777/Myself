@@ -1,0 +1,28 @@
+{
+  "name": "myself",
+  "version": "1.0.0",
+  "description": "1. Problemática\r Actualmente, muchas personas buscan mejorar su salud a través de la alimentación y el ejercicio, pero se enfrentan a múltiples obstáculos: información poco confiable en internet, planes genéricos, falta de seguimiento y desconocimiento de técnicas adecuadas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguelqo777/Myself.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miguelqo777/Myself/issues"
+  },
+  "homepage": "https://github.com/Miguelqo777/Myself#readme",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "mssql": "^11.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
